@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://wallpapertops.com/walldb/original/3/f/d/476604.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: auto;
+    margin: 0;
+    color:blue;
+}
+header {
+   background-image: url(https://www.tasteofhome.com/wp-content/uploads/2017/11/shutterstock_678367045.jpg);
+   background-size: cover;
+   height: 60px;
+   background-repeat: repeat;
+   grid-row: header;
+   font-size: 50px;
+   text-justify: auto;
+   text-align: center;
+}
+footer {
+    background-image: url(https://i1.wp.com/www.pepperpowered.com/wp-content/uploads/2017/02/basic-indian-spices-lineup.jpg);
+    font-size: unset;
+    font-variant: small-caps;
+    font-style: oblique;
+    width: auto;
+    height: 60px;
+    text-align: center;
+    text-shadow: blue;
+    text-orientation: sideways;
+    font-size: x-large;
+    line-height: 60px;
+    background-position: center;
+    background-size: cover;
+}
